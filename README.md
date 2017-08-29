@@ -1,6 +1,12 @@
 # GBU (Git Backup)
 Backup Git Repositories on Local Machine
 
+## Install
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/KayvanMazaheri/gbu/master/install.sh)"
+```
+
 ## Why?
 > Your data is valuable. It will cost you time and effort re-create it, and that costs money or at least personal grief and tears.
 >
